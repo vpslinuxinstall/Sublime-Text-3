@@ -1,0 +1,15 @@
+{
+	//"color_scheme": "Monokai.sublime-color-scheme",
+	//"color_scheme": "Packages/ThemeDefault/AgolaDark.tmTheme",
+	//"color_scheme": "Packages/ThemeDefault/Predawn.tmTheme",
+	//"color_scheme": "Packages/ThemeDefault/Darkula.tmTheme",
+	"spell_check": true,
+	"color_scheme": "Packages/ThemeDefault/DarkulaMarkdown.tmTheme",
+	"wrap_width": 40,
+	"extensions":
+	[
+	]
+}
+
+
+

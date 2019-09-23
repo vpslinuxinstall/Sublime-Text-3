@@ -1,0 +1,16 @@
+{
+	"jdk_version":
+	{
+		"JDK12.0.2":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin",
+			"version": "12.0.2"
+		},
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"7": null
+	}
+}

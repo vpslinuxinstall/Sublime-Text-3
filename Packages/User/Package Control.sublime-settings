@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Darkula Color Scheme",
+		"DashDoc",
+		"DictionaryAutoComplete",
+		"Entheogen Color Scheme",
+		"JavaIME",
+		"MarkdownEditing",
+		"MonokaiC",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Twilight+",
+		"Typora Markdown App (OSX)"
+	]
+}

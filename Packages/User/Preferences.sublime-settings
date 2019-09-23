@@ -1,0 +1,11 @@
+{
+	"auto_complete_selector": "text, comment, string",
+	"color_scheme": "Packages/Darkula Color Scheme/darkula.tmTheme",
+	"font_size": 22,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"theme": "Default.sublime-theme"
+}
